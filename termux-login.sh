@@ -1,5 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/sh
 
+# termux-login.sh script made by BuriXon-code (c) 2025
+
+# You have to set EXPECTED_SHA parameter before use!
 EXPECTED_SHA="password-sha256"
 LOGS_PATH="/data/data/com.termux/files/home/.login_logs/"
 INTRUDERS_DIR="intruders"
